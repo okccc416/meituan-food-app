@@ -1,0 +1,82 @@
+[
+  {
+    "id": "res-001",
+    "name": "翔仔好味馆",
+    "cluster_zone": "樱花广场",
+    "location_coordinates": { "lat": 31.0501, "lng": 121.2105 },
+    "price_tier": 1,
+    "average_cost_rmb": 18,
+    "wait_time_minutes": 5,
+    "vibe_tags": ["穷鬼套餐", "十分钟速决", "下课直奔", "高碳水"],
+    "cuisine_category": "中式快餐",
+    "image_url": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&q=80&w=400&h=300",
+    "hygiene_rating": "A",
+    "has_trial_meal": true,
+    "last_100m_status": "外卖柜空闲·可直送宿舍",
+    "signature_dishes": [
+      { "name": "红烧肉盖饭", "price": 15 },
+      { "name": "番茄鸡蛋面", "price": 12 },
+      { "name": "麻辣香锅", "price": 22 }
+    ]
+  },
+  {
+    "id": "res-002",
+    "name": "Facepork脸猪猪排",
+    "cluster_zone": "启源生活广场",
+    "location_coordinates": { "lat": 31.0520, "lng": 121.2130 },
+    "price_tier": 2,
+    "average_cost_rmb": 35,
+    "wait_time_minutes": 15,
+    "vibe_tags": ["下午茶摸鱼", "碳水快乐", "肉食狂热", "寝室宵夜"],
+    "cuisine_category": "炸物小吃",
+    "image_url": "https://images.unsplash.com/photo-1599598425947-33004a43fc82?auto=format&fit=crop&q=80&w=400&h=300",
+    "hygiene_rating": "A",
+    "has_trial_meal": false,
+    "last_100m_status": "外卖柜爆满建议自提",
+    "signature_dishes": [
+      { "name": "日式厚切猪排", "price": 32 },
+      { "name": "芝士炸鸡翅", "price": 18 },
+      { "name": "咖喱猪排饭", "price": 35 }
+    ]
+  },
+  {
+    "id": "res-003",
+    "name": "左庭右院鲜牛肉火锅",
+    "cluster_zone": "开元地中海",
+    "location_coordinates": { "lat": 31.0450, "lng": 121.2200 },
+    "price_tier": 3,
+    "average_cost_rmb": 120,
+    "wait_time_minutes": 45,
+    "vibe_tags": ["周末改善生活", "社团大聚餐", "正式约会", "期末回血"],
+    "cuisine_category": "火锅",
+    "image_url": "https://images.unsplash.com/photo-1582234372722-50d7ccc30ebd?auto=format&fit=crop&q=80&w=400&h=300",
+    "hygiene_rating": "A",
+    "has_trial_meal": false,
+    "last_100m_status": "仅支持堂食·建议提前预约",
+    "signature_dishes": [
+      { "name": "鲜切牛肉拼盘", "price": 68 },
+      { "name": "手打虾滑", "price": 42 },
+      { "name": "毛肚", "price": 38 }
+    ]
+  },
+  {
+    "id": "res-004",
+    "name": "曼顿果汁吧",
+    "cluster_zone": "启源生活广场",
+    "location_coordinates": { "lat": 31.0522, "lng": 121.2135 },
+    "price_tier": 1,
+    "average_cost_rmb": 22,
+    "wait_time_minutes": 8,
+    "vibe_tags": ["早八续命", "下午茶摸鱼", "减脂健康"],
+    "cuisine_category": "饮品",
+    "image_url": "https://images.unsplash.com/photo-1622597467836-f38240662f51?auto=format&fit=crop&q=80&w=400&h=300",
+    "hygiene_rating": "A",
+    "has_trial_meal": false,
+    "last_100m_status": "外卖柜空闲·可直送宿舍",
+    "signature_dishes": [
+      { "name": "牛油果能量昔", "price": 26 },
+      { "name": "鲜榨橙汁", "price": 16 },
+      { "name": "açaí碗", "price": 32 }
+    ]
+  }
+]
